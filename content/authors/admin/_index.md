@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Lina Qiu is a PhD student at the Computer Science Department at Boston University. She is currently working in MiDAS Group with Prof. Manos Athanassoulis. Before joining BU, she received her MS from NYU. During her time in NYU, she was advised by Prof. Yong Liu and Prof. Torsten Suel.
+Lina Qiu is a PhD student at the Computer Science Department at Boston University. She is currently working in [MiDAS Group](https://midas.bu.edu) with [Prof. Manos Athanassoulis](http://manos.athanassoulis.net). Before joining BU, she received her MS from NYU. During her time in NYU, she was advised by [Prof. Yong Liu](http://eeweb.poly.edu/faculty/yongliu/) and [Prof. Torsten Suel](http://engineering.nyu.edu/~suel/).
