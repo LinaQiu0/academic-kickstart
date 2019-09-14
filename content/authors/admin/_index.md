@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student at Boston University
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CS Department, Boston University
+  url: "https://www.bu.edu/cs/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests generally lie in data systems and data mining.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Data Systems
+- Data Mining
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Boston University
+    year: 2019 - Now
+  - course: MS in Computer Science
+    institution: New York University
+    year: 2019
+  - course: BEng in Computer Science and Electronics
+    institution: University of Edinburgh
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
