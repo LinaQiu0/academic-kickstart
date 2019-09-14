@@ -35,7 +35,10 @@ education:
     year: 2019
   - course: BEng in Computer Science and Electronics
     institution: University of Edinburgh
-    year: 2017
+    year: 2015-2017
+  - course: BEng in Information Engineering
+    institution: South China University of Technology
+    year: 2013-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -71,3 +74,5 @@ user_groups:
 ---
 
 Lina Qiu is a PhD student at the Computer Science Department at Boston University. She is currently working in [MiDAS Group](https://midas.bu.edu) with [Prof. Manos Athanassoulis](http://manos.athanassoulis.net). Before joining BU, she received her MS from NYU. During her time in NYU, she was advised by [Prof. Yong Liu](http://eeweb.poly.edu/faculty/yongliu/) and [Prof. Torsten Suel](http://engineering.nyu.edu/~suel/).
+
+Contact: [qlina@bu.edu](mailto:qlina.bu.edu)
