@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "qlina@bu.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:qlina@bu.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lina-qiu-8a97b3147
